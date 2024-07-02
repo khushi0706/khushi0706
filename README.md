@@ -6,9 +6,8 @@
 ## 🚀 Languages and Tools
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/c-logo.png" alt="C" />
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
   <img src="https://img.icons8.com/color/48/000000/solidity.png" alt="Solidity" />
@@ -20,10 +19,7 @@
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode" />
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
-  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" />
   <img src="https://img.icons8.com/color/48/000000/ethereum.png" alt="Ethereum" />
-  <img src="https://img.icons8.com/color/48/000000/truffle.png" alt="Truffle" />
-  <img src="https://img.icons8.com/ios/50/000000/ganache.png" alt="Ganache" />
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" />
 </p>
 
