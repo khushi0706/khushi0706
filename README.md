@@ -3,6 +3,10 @@
 🎓 I'm a final year BTech IT student at NITK Surathkal.  
 🌟 Passionate about technology, coding, and innovative projects.
 
+### Profiles
+- [LeetCode](https://leetcode.com/khushiii07/)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/user/khushi7604/)
+  
 ## 🚀 Languages and Tools
 
 <p align="center">
