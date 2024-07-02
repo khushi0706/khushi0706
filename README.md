@@ -5,25 +5,25 @@ Welcome to my GitHub profile! I'm passionate about technology and love to work o
 ## 🚀 Technologies I Use
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" />
-  <img src="https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript" />
-  <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/-Java-333333?style=flat&logo=java" />
-  <img src="https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus" />
-  <img src="https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql" />
-  <img src="https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5" />
-  <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3" />
-  <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" />
-  <img src="https://img.shields.io/badge/-Express-333333?style=flat&logo=express" />
-  <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" />
-  <img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql" />
-  <img src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb" />
-  <img src="https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma" />
-  <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" />
-  <img src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker" />
-  <img src="https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman" />
-  <img src="https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code" />
-  <img src="https://img.shields.io/badge/-JWT-333333?style=flat&logo=json-web-tokens" />
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
+  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" />
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" />
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/express.png" alt="Express" />
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
+  <img src="https://img.icons8.com/color/48/000000/prisma.png" alt="Prisma" />
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" />
+  <img src="https://img.icons8.com/color/48/000000/postman-api.png" alt="Postman" />
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" />
+  <img src="https://img.icons8.com/color/48/000000/json-web-token.png" alt="JWT" />
 </p>
 
 ## 📊 GitHub Stats
@@ -42,17 +42,27 @@ Welcome to my GitHub profile! I'm passionate about technology and love to work o
 ## 📫 How to Reach Me
 
 <p align="center">
-  <a href="mailto:[Your Email Address]">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" />
   </a>
-  <a href="[Your LinkedIn Profile]">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/khushi-gadling-3ba583235">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
-  <a href="[Your Twitter Handle]">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
+  <a href="https://twitter.com/your-twitter-handle">
+    <img src="https://img.icons8.com/color/48/000000/twitter-squared.png" alt="Twitter" />
   </a>
 </p>
 
 ---
+
+Khushi Gadling  
+`khushi0706 · she/her`  
+Hello folks! This is Khushi Gadling studying in final year Btech IT at NITK Surathkal.  
+`6 followers · 7 following`  
+Greater Noida  
+[in/khushi-gadling-3ba583235](https://www.linkedin.com/in/khushi-gadling-3ba583235)  
+
+Achievements:  
+![Achievement: Pull Shark](https://img.shields.io/badge/Achievement-Pull%20Shark-blue)
 
 _Thanks for visiting!_
