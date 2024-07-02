@@ -4,8 +4,9 @@
 🌟 Passionate about technology, coding, and innovative projects.
 
 ### Profiles
-- [![LeetCode](https://img.icons8.com/color/48/000000/leetcode.png)](https://leetcode.com/khushiii07/)
-- [![GeeksforGeeks](https://img.icons8.com/color/48/000000/geeksforgeeks.png)](https://www.geeksforgeeks.org/user/khushi7604/)
+- [![LeetCode](https://img.shields.io/badge/LeetCode-khushiii07-grey?style=flat&logo=leetcode)](https://leetcode.com/khushiii07/)
+- [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-khushi7604-green?style=flat&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/khushi7604/)
+
 
 ## 🚀 Languages and Tools
 
@@ -34,10 +35,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushi0706&theme=radical" alt="Khushi's GitHub Streak" width="45%" />
 </div>
 
-<div style="display: flex; justify-content: space-between; margin-top: 20px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khushi0706&theme=radical" alt="Khushi's GitHub Summary" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi0706&layout=compact&theme=radical" alt="Top Languages" width="45%" />
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khushi0706&theme=radical" alt="Khushi's GitHub Summary" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi0706&layout=compact&theme=radical" alt="Top Languages" />
+
 
 
 
