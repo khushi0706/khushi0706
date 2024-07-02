@@ -4,8 +4,8 @@
 🌟 Passionate about technology, coding, and innovative projects.
 
 ### Profiles
-- [LeetCode](https://leetcode.com/khushiii07/)
-- [GeeksforGeeks](https://www.geeksforgeeks.org/user/khushi7604/)
+- [<img src="https://img.icons8.com/color/48/000000/leetcode.png" alt="LeetCode" />](https://leetcode.com/khushiii07/)
+- [<img src="https://img.icons8.com/color/48/000000/geeksforgeeks.png" alt="GeeksforGeeks" />](https://www.geeksforgeeks.org/user/khushi7604/)
   
 ## 🚀 Languages and Tools
 
