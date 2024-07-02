@@ -4,9 +4,9 @@
 🌟 Passionate about technology, coding, and innovative projects.
 
 ### Profiles
-- [<img src="https://img.icons8.com/color/48/000000/leetcode.png" alt="LeetCode" />](https://leetcode.com/khushiii07/)
-- [<img src="https://img.icons8.com/color/48/000000/geeksforgeeks.png" alt="GeeksforGeeks" />](https://www.geeksforgeeks.org/user/khushi7604/)
-  
+- [![LeetCode](https://img.icons8.com/color/48/000000/leetcode.png)](https://leetcode.com/khushiii07/)
+- [![GeeksforGeeks](https://img.icons8.com/color/48/000000/geeksforgeeks.png)](https://www.geeksforgeeks.org/user/khushi7604/)
+
 ## 🚀 Languages and Tools
 
 <p align="center">
@@ -29,12 +29,16 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khushi0706&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Khushi's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushi0706&theme=radical" alt="Khushi's GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khushi0706&theme=radical" alt="Khushi's GitHub Summary" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi0706&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=khushi0706&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Khushi's GitHub Stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushi0706&theme=radical" alt="Khushi's GitHub Streak" width="45%" />
+</div>
+
+<div style="display: flex; justify-content: space-between; margin-top: 20px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khushi0706&theme=radical" alt="Khushi's GitHub Summary" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi0706&layout=compact&theme=radical" alt="Top Languages" width="45%" />
+</div>
+
 
 
 ## 📫 How to Reach Me
